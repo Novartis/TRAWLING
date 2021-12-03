@@ -1,0 +1,8 @@
+#Output directory (full path)
+output='/da/onc/bfx/research/dinanno1/test/TRAWLING_bulk/'
+
+#type of library: 3prim or bulk
+typeS="bulk"
+
+#n parameter (see Method section of the paper). Typically, n is set to the read length minus one read, or minus up to 10% of the read length.
+n=70

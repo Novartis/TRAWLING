@@ -1,0 +1,11 @@
+name: TRAWLING_env
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - gffread
+  - bedtools
+  - r-base=3.6
+  - r-tidyverse
+  - r-rgb
+  - r-dplyr

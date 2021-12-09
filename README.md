@@ -71,4 +71,4 @@ Once done, the pipeline should generate an *output* directory with the following
 If you use this code, please cite the following paper:
 
 
-Noemi Di Nanni, Alejandro Reyes, Daniel Ho, Robert Ihry, Audrey Kauffmann, Eric Y. Durand, Antoine de Weck. "TRAWLING: a Transcriptome Reference Aware of spLIciNG events."
+Noemi Di Nanni, Alejandro Reyes, Daniel Ho, Robert Ihry, Audrey Kauffmann, Eric Y. Durand, Antoine de Weck. "TRAWLING: a Transcriptome Reference Aware of spLIciNG events." doi: https://doi.org/10.1101/2021.12.03.471115
